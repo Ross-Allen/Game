@@ -19,7 +19,6 @@ public class GameOfWar implements Game{
     /**
      * Override initialize method
      */
-    @Override
     public void initialize(){
         //initialize all needed values for game play
         plr1Comparable = new Hand();
@@ -40,7 +39,6 @@ public class GameOfWar implements Game{
     /**
      * Override play method
      */
-    @Override
     public void play(){
         //local attributes for game play
         int result;
@@ -95,7 +93,6 @@ public class GameOfWar implements Game{
     /**
      * Override displayWinner method
      */
-    @Override
     public void displayWinner(){
        if((plr1WinHand.group.size() + plr1Hand.group.size()) >
                (plr2WinHand.group.size() + plr2Hand.group.size())){

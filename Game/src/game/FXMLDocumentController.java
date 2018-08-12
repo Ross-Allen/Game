@@ -1,7 +1,7 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * CS3230 - Final Project - Game of War w/ Game of your choice.
+ * Due Date: August 16th.
+ * Author: Ross Allen.
  */
 package game;
 

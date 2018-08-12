@@ -3,7 +3,7 @@
  * Due Date: August 16th.
  * Author: Ross Allen.
  */
-package game;
+package UI;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
